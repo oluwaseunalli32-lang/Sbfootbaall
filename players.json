@@ -1,0 +1,18 @@
+{
+  "last_updated": "October 2026",
+  "source_note": "Rounded career totals (club + senior national team, all competitions). Compiled manually, so treat as approximate.",
+  "players": [
+    {"id": "messi", "name": "Lionel Messi", "position": "Forward", "nationality": "Argentina", "goals": 900, "assists": 400, "appearances": 1150, "trophies": 46},
+    {"id": "ronaldo", "name": "Cristiano Ronaldo", "position": "Forward", "nationality": "Portugal", "goals": 960, "assists": 255, "appearances": 1300, "trophies": 34},
+    {"id": "mbappe", "name": "Kylian Mbappé", "position": "Forward", "nationality": "France", "goals": 400, "assists": 130, "appearances": 600, "trophies": 16},
+    {"id": "haaland", "name": "Erling Haaland", "position": "Forward", "nationality": "Norway", "goals": 320, "assists": 65, "appearances": 400, "trophies": 10},
+    {"id": "salah", "name": "Mohamed Salah", "position": "Forward", "nationality": "Egypt", "goals": 400, "assists": 170, "appearances": 780, "trophies": 11},
+    {"id": "lewandowski", "name": "Robert Lewandowski", "position": "Forward", "nationality": "Poland", "goals": 650, "assists": 155, "appearances": 1000, "trophies": 27},
+    {"id": "de-bruyne", "name": "Kevin De Bruyne", "position": "Midfielder", "nationality": "Belgium", "goals": 130, "assists": 270, "appearances": 700, "trophies": 20},
+    {"id": "modric", "name": "Luka Modrić", "position": "Midfielder", "nationality": "Croatia", "goals": 90, "assists": 125, "appearances": 1050, "trophies": 29},
+    {"id": "neymar", "name": "Neymar", "position": "Forward", "nationality": "Brazil", "goals": 440, "assists": 260, "appearances": 740, "trophies": 31},
+    {"id": "vinicius", "name": "Vinícius Júnior", "position": "Forward", "nationality": "Brazil", "goals": 150, "assists": 100, "appearances": 400, "trophies": 15},
+    {"id": "bellingham", "name": "Jude Bellingham", "position": "Midfielder", "nationality": "England", "goals": 75, "assists": 50, "appearances": 280, "trophies": 8},
+    {"id": "yamal", "name": "Lamine Yamal", "position": "Forward", "nationality": "Spain", "goals": 40, "assists": 50, "appearances": 150, "trophies": 6}
+  ]
+}
